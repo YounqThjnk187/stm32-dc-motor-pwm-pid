@@ -56,16 +56,6 @@ Where:
 
 Demo video: (add your YouTube link or upload `docs/demo.mp4`)
 
----
-
-## 📚 References
-- STM32F103x8/xB Datasheet – STMicroelectronics
-- L298N Motor Driver Module – Components101
-- Controllerstech – STM32 PWM tutorials
-- Ziegler–Nichols method for PID tuning
-
----
-
 ## 👨‍💻 Authors
 - **Dương Quốc Thịnh** (leader)
 - Phạm Tuấn Hưng
