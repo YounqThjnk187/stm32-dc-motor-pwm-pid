@@ -8,8 +8,6 @@ This project demonstrates **closed-loop control of a DC motor** using:
 - Encoder (FC-03) for feedback
 - LCD 1602 I2C for displaying speed
 
-The project was originally developed as a **final course project** for the Microprocessor & Microcontroller course (CE103.P21, UIT - University of Information Technology, VNUHCM).
-
 ---
 
 ## ⚙️ Hardware Setup
@@ -23,8 +21,7 @@ Block Diagram:
 
 [STM32] --PWM--> [L298N] --> [DC Motor + Encoder]
 <--Feedback-- FC-03
---I2C--> [LCD 1602]
-
+--I2C--> [LCD 1602
 
 ---
 
@@ -55,10 +52,3 @@ README.md # Project documentation
 - Smooth DC motor speed control.
 - PID maintains stable RPM under varying loads.
 - LCD displays real-time setpoint and actual RPM.
-
-## 👨‍💻 Authors
-- **Dương Quốc Thịnh** (leader)
-- Phạm Tuấn Hưng
-- Đặng Ngọc Trường Chinh
-- Lục Duy Tân
-- Nguyễn Thành Tài
