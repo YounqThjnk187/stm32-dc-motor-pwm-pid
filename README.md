@@ -17,12 +17,6 @@ This project demonstrates **closed-loop control of a DC motor** using:
 - **Display**: LCD 1602 I2C
 - **Power Supply**: 12V DC, 2A
 
-Block Diagram:
-
-[STM32] --PWM--> [L298N] --> [DC Motor + Encoder]
-<--Feedback-- FC-03
---I2C--> [LCD 1602]
-
 ---
 
 ## 🧠 Control Algorithm
