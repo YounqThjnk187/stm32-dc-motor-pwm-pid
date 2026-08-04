@@ -21,7 +21,7 @@ Block Diagram:
 
 [STM32] --PWM--> [L298N] --> [DC Motor + Encoder]
 <--Feedback-- FC-03
---I2C--> [LCD 1602
+--I2C--> [LCD 1602]
 
 ---
 
